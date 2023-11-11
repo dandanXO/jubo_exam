@@ -8,7 +8,9 @@
 
  mongodb 使用
  `https://cloud.mongodb.com/` 服務 因此直接使用即可(開了使用者帳號密碼)
+ 
  user001:oc1ZVsMosdW1uerB@exam
+ 
 orm 使用 mongoose
 
 Patients對上 order 為 一對多
